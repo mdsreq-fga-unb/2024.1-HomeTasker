@@ -2,7 +2,7 @@
 
 O foco será trabalhar com a metodologia ágil, uma vez que a disciplina exige 4 entregas ao longo do semestre, nas quais será preciso planejar, avaliar os requisitos, consultar o cliente real, desenvolver o produto de software, além de realizar testes e ajustes ao longo do tempo. Desse modo, a metodologia ágil é a que melhor se adequa às necessidades do projeto, uma vez que permite planejamento semanal, agilidade nas entregas e maior adaptabilidade.
 
-O processo a ser utilizado é o SCRUM XP, que combina o framework SCRUM para organizar as tarefas, promover a transparência no projeto e a adaptação a mudanças. Já o XP (Extreme Programming) apresenta as práticas para desenvolver o software, como a programação em pares, o desenvolvimento voltado a testes (TDD), integração contínua, refatoração do código e maior comunicação com o cliente.
+O processo a ser utilizado é o Scrum XP, que combina o framework SCRUM para organizar as tarefas, promover a transparência no projeto e a adaptação a mudanças. Já o XP (Extreme Programming) apresenta as práticas para desenvolver o software, como a programação em pares, o desenvolvimento voltado a testes (TDD), integração contínua, refatoração do código e maior comunicação com o cliente.
 
 ![diagrama fluxo trabalho](assets/diagrama-fluxo-trabalho.png)
 
