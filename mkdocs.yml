@@ -1,0 +1,57 @@
+site_name: Projeto HomeTasker
+repo_name: "2024.1-HomeTasker-DOC"
+repo_url: https://github.com/mdsreq-fga-unb/2024.1-HomeTasker
+
+theme:
+  name: material
+  nav_style: dark
+  language: pt
+  icon:
+    logo: fontawesome/solid/radio
+    repo: fontawesome/brands/github
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest  
+  plugins:
+    - typeset
+    - search
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo claro
+    
+    - scheme: default
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo escuro
+nav:
+  - Página inicial: index.md
+  - História da Facção:
+    - The Mandalorians: the_mandalorians.md
+    - História dos integrantes:
+      - Pyke: HistoriaDosIntegrantes/pyke.md
+      - Blizel: HistoriaDosIntegrantes/blizel.md
+      - Zephyr: HistoriaDosIntegrantes/zephyr.md
+      - Byte: HistoriaDosIntegrantes/byte.md
+      - Kael Wren: HistoriaDosIntegrantes/kael-wren.md
+      - Aalya Kothe: HistoriaDosIntegrantes/aalya-kothe.md
+      - Kira Quinn: HistoriaDosIntegrantes/kira-quinn.md
+  - Visão do Produto e Projeto: 
+    - Visão Geral do Produto: visao-geral-prod.md
