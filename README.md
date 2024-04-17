@@ -5,4 +5,4 @@ HomeTasker é um projeto criado para a disciplina Requisitos de Software da univ
 
 
 ## 📒 Documentação
-Para entender melhor o nosso projeto e acessar o gitpages clique [Aqui] (https://mdsreq-fga-unb.github.io/2024.1-HomeTasker/).
+Para entender melhor o nosso projeto e acessar o gitpages clique [Aqui](https://mdsreq-fga-unb.github.io/2024.1-HomeTasker/).
