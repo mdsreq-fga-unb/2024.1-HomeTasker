@@ -12,22 +12,16 @@
 
 ## 2.2 - Planejamento das Fases e/ou Iterações do Projeto
 
-| Sprint | Produto(Entrega) | Data de Início | Data do Fim |
+ Sprint | Produto(Entrega) | Data de Início | Data do Fim |
 | ------ | ---------------- | -------------- | ----------- |
-|Sprint 1|Definição do Produto| |11/04/24|
-|Sprint 2|Criação do doc Visão do produto e projeto e do git pages| 01/04/24|17/04/24|
-|Sprint 3|Elicitação de requisitos, SAFe e reunião com cliente|18/04/24|01/05/24|
-|Sprint 4|Definição do backlog e User story|02/05/24|08/05/24|
-|Sprint 5|Definição do MVP junto com o cliente|09/05/24|15/05/24|
-|Sprint 6|User Story Mapping e prototipação|03/06/24|07/04/24|
-|Sprint 7|Criação do Product Backlog Building|08/04/24|09/04/24|
-|Sprint 8|Início da implementação do MVP|10/06/24|14/06/24|
-|Sprint 9|
-|Sprint 10|
-|Sprint 11|
-|Sprint 12|
-|Sprint 13|
-|Sprint 14| Entrega do MVP | 08/07/24 | 11/07/24|
+| Sprint 1 | Definição do Produto | 19/03/24 |11/04/24|
+| Sprint 2 | Criação do doc Visão do produto e projeto do git pages | 01/04/24 | 18/04/24 |
+| Sprint 3 | Elicitação de requisitos, Definição do backlog  e SAFe | 19/05/24 | 01/05/24 |
+| Sprint 4 | User story , Definição do MVP com validação do cliente | 02/05/24 | 16/05/24 |
+| Sprint 5 | Começo da implementação do MVP, Criação do Product | 17/05/24 | 01/06/24 | Backlog Building e estabelecimento do DoR
+| Sprint 6 | Estabelecimento do DoD e User Story Mapping | 02/06/24 | 13/06/24 |
+| Sprint 7 | Criação do diagrama de Caso de Uso e especificação de Caso de Uso | 14/06/24 | 21/06/24 |
+| Sprint 8 | Entrega do MVP e  documentação final | 22/06/24 | 02/07/24 |
 
 ## 2.3 - Matriz de Comunicação
 
