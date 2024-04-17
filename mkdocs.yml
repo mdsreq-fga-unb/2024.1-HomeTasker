@@ -54,4 +54,9 @@ nav:
       - Aalya Kothe: HistoriaDosIntegrantes/aalya-kothe.md
       - Kira Quinn: HistoriaDosIntegrantes/kira-quinn.md
   - Visão do Produto e Projeto: 
+    - Histórico de Revisão: historico-revisao.md
     - Visão Geral do Produto: visao-geral-prod.md
+    - Visão Geral do Projeto: visao-geral-proj.md
+    - Processo de Desenvolvimento de Software: processo-dev-software.md
+    - Lições Aprendidas: licoes.md
+    
