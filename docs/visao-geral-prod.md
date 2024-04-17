@@ -19,3 +19,7 @@ Com este produto, queremos transformar a maneira como os serviços domésticos s
 ## 1.3 - Objetivos do Produto
 
 O objetivo principal do projeto HomeTasker é desenvolver e lançar uma plataforma digital inovadora que revoluciona a forma como clientes encontram e contratam prestadores de serviços domésticos confiáveis. Nossa plataforma oferecerá uma experiência conveniente e eficiente, oferecendo constante comunicação e avaliação entre as duas partes, além de permitir que os usuários encontrem uma variedade de serviços domésticos, desde limpeza e reparos até cuidados pessoais e jardinagem, com facilidade e segurança.
+
+## 1.4 - Tecnologias a Serem Utilizadas
+
+O site deverá ser implementado em TypeScript com o front-end realizado em React.js e back-end com Node.js(express.js). A base de dados será mantida no SGBD MySQL.
