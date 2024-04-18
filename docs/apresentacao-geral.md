@@ -1,4 +1,2 @@
 # Vídeo
-<video width="400" height="240" controls>
-  <source src="assets/Video de entrega da missao 1 - The Mandalorians.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HNLlMnXRHho" frameborder="0" allowfullscreen></iframe>
